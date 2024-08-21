@@ -9,5 +9,5 @@ tasks:
 # Multi repo. Learn more: https://www.gitpod.io/docs/configure/workspaces/multi-repo
 workspaceLocation: template-go-workspaces/main.code-workspace # Relative to /workspace dir
 additionalRepositories:
-  - url: https://go.googlesource.com/example
+  - url: https://github.com/golang/example
     checkoutLocation: example # not really necessary to specify since we're using the same name as the URL.
